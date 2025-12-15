@@ -1,0 +1,1001 @@
+CustomerID,OrderID,OrderDate,Amount,Product,Region
+1102,1,05/01/2023,219.46,Vitamin,Shaki
+1435,2,29/04/2023,492.25,Antibiotic,Shaki
+1860,3,09/01/2024,79.04,Antiseptic,Baku
+1270,4,06/03/2023,234.98,Syringe,Sumqayit
+1106,5,26/05/2023,341.83,Bandage,Shirvan
+1071,6,12/08/2023,200.79,Allergy Medicine,Baku
+1700,7,27/08/2023,487.48,Syringe,Ganja
+1020,8,26/06/2023,362.33,Vitamin,Shirvan
+1614,9,09/10/2023,330.21,Bandage,Sumqayit
+1121,10,04/03/2023,379.74,Antiseptic,Ganja
+1466,11,05/08/2023,476.56,Analgesic,Nakhchivan
+1214,12,19/11/2024,454.37,Syringe,Lankaran
+1330,13,05/04/2024,363.52,Vitamin,Ganja
+1458,14,01/09/2024,375.84,Antiseptic,Lankaran
+1087,15,15/04/2023,77.23,Antiviral,Shirvan
+1372,16,09/04/2023,55.88,Antiviral,Lankaran
+1099,17,25/05/2024,287.6,Antiseptic,Shirvan
+1871,18,20/01/2024,14.09,Antiseptic,Shirvan
+1663,19,09/02/2024,243.77,Antiseptic,Shirvan
+1130,20,01/06/2024,109.12,Bandage,Shirvan
+1661,21,20/04/2024,176.28,Antiseptic,Shirvan
+1308,22,06/10/2024,389.02,Syringe,Ganja
+1769,23,12/03/2024,470.91,Vitamin,Shirvan
+1343,24,23/01/2023,40.85,Bandage,Ganja
+1491,25,18/07/2024,269.45,Antiseptic,Shirvan
+1413,26,07/11/2024,441.85,Antibiotic,Lankaran
+1805,27,02/04/2024,45.84,Allergy Medicine,Nakhchivan
+1385,28,24/03/2023,413.13,Antibiotic,Shirvan
+1191,29,25/05/2023,182.11,Vitamin,Sumqayit
+1955,30,26/03/2023,164.44,Antiviral,Shirvan
+1276,31,19/03/2023,488.85,Analgesic,Shirvan
+1160,32,01/04/2024,104.43,Analgesic,Lankaran
+1459,33,01/01/2023,348.13,Allergy Medicine,Shaki
+1313,34,20/02/2023,411.61,Antiviral,Lankaran
+1021,35,15/11/2024,25.39,Bandage,Sumqayit
+1252,36,21/03/2024,336.84,Bandage,Shaki
+1747,37,24/03/2024,476.02,Bandage,Baku
+1856,38,02/05/2024,66.49,Analgesic,Baku
+1560,39,03/02/2023,448.63,Antibiotic,Sumqayit
+1474,40,14/12/2023,299.41,Analgesic,Lankaran
+1058,41,05/04/2023,310.22,Syringe,Ganja
+1510,42,13/03/2023,308.41,Antiseptic,Sumqayit
+1681,43,04/07/2024,152.92,Bandage,Nakhchivan
+1475,44,03/06/2023,467.92,Antibiotic,Shaki
+1699,45,07/09/2023,473.94,Vitamin,Shaki
+1975,46,04/11/2024,314.53,Allergy Medicine,Shirvan
+1782,47,13/03/2024,392.79,Vitamin,Baku
+1189,48,28/04/2023,308.07,Antiseptic,Shaki
+1957,49,02/11/2023,244.78,Antibiotic,Sumqayit
+1686,50,25/09/2023,332.11,Analgesic,Shaki
+1957,51,23/02/2023,278.74,Analgesic,Sumqayit
+1562,52,24/08/2023,300.75,Syringe,Ganja
+1875,53,24/01/2024,393,Syringe,Shirvan
+1566,54,05/02/2024,243.05,Analgesic,Baku
+1243,55,15/09/2024,25.17,Vitamin,Shaki
+1831,56,30/10/2023,86.18,Allergy Medicine,Sumqayit
+1504,57,26/07/2023,222.11,Bandage,Lankaran
+1130,58,17/08/2023,363.79,Vitamin,Baku
+1484,59,31/07/2024,298.67,Allergy Medicine,Ganja
+1818,60,16/03/2023,326.9,Syringe,Sumqayit
+1646,61,10/03/2024,242.24,Antiseptic,Nakhchivan
+1020,62,13/04/2023,309.79,Allergy Medicine,Nakhchivan
+1840,63,26/02/2024,167.86,Analgesic,Shirvan
+1166,64,02/11/2023,237.74,Syringe,Shirvan
+1273,65,08/04/2023,373.42,Syringe,Ganja
+1387,66,01/12/2023,436.56,Bandage,Ganja
+1600,67,10/03/2024,219.66,Analgesic,Shirvan
+1315,68,22/03/2024,26.61,Bandage,Shaki
+1013,69,04/11/2023,85.03,Analgesic,Shaki
+1241,70,06/09/2023,15.33,Bandage,Sumqayit
+1776,71,15/06/2023,328.37,Allergy Medicine,Lankaran
+1345,72,25/04/2024,169.5,Vitamin,Sumqayit
+1564,73,01/12/2023,273.53,Antiseptic,Lankaran
+1897,74,25/06/2024,249.17,Antiseptic,Ganja
+1339,75,16/04/2023,45.36,Analgesic,Baku
+1091,76,16/07/2024,204.61,Antibiotic,Sumqayit
+1366,77,22/03/2023,114.18,Antiviral,Sumqayit
+1955,78,13/05/2023,212.11,Syringe,Lankaran
+1454,79,18/05/2023,105.77,Syringe,Ganja
+1427,80,03/07/2023,421.02,Analgesic,Ganja
+1508,81,05/02/2024,91.23,Allergy Medicine,Nakhchivan
+1775,82,26/11/2023,480.59,Bandage,Lankaran
+1942,83,22/05/2024,210.87,Antibiotic,Ganja
+1034,84,10/03/2023,423.89,Vitamin,Shirvan
+1205,85,29/06/2024,316.24,Bandage,Shaki
+1080,86,22/02/2023,369,Bandage,Nakhchivan
+1931,87,25/03/2024,385.02,Analgesic,Shirvan
+1561,88,24/07/2023,254.9,Analgesic,Baku
+1871,89,06/05/2023,273.93,Allergy Medicine,Sumqayit
+1387,90,12/02/2023,259.43,Syringe,Nakhchivan
+1001,91,21/04/2023,296.09,Analgesic,Baku
+1389,92,24/10/2024,19.55,Analgesic,Sumqayit
+1565,93,02/07/2023,200.78,Analgesic,Shaki
+1105,94,05/04/2023,305.06,Allergy Medicine,Ganja
+1771,95,09/01/2024,300.87,Syringe,Shirvan
+1821,96,03/06/2024,397.51,Vitamin,Lankaran
+1476,97,26/12/2023,329.23,Vitamin,Shirvan
+1702,98,26/11/2024,496.11,Antiviral,Shaki
+1401,99,08/10/2023,145.51,Antiviral,Baku
+1729,100,14/07/2023,182.78,Analgesic,Lankaran
+1555,101,14/07/2023,195,Antiviral,Ganja
+1161,102,28/10/2024,235.58,Syringe,Shaki
+1201,103,03/04/2023,418.82,Allergy Medicine,Lankaran
+1957,104,02/11/2024,121.72,Vitamin,Shaki
+1995,105,02/03/2023,389.12,Bandage,Shaki
+1269,106,25/09/2024,205.63,Vitamin,Ganja
+1862,107,20/02/2023,302.92,Vitamin,Nakhchivan
+1815,108,07/02/2024,318.11,Syringe,Sumqayit
+1270,109,05/01/2023,189.56,Antiviral,Lankaran
+1455,110,10/04/2024,258.74,Bandage,Ganja
+1461,111,26/08/2024,209.45,Syringe,Shaki
+1726,112,12/11/2024,39.22,Analgesic,Ganja
+1251,113,17/06/2024,221.4,Allergy Medicine,Nakhchivan
+1701,114,09/02/2024,53.21,Antiseptic,Sumqayit
+1295,115,27/05/2024,205.49,Vitamin,Shirvan
+1724,116,06/10/2024,298.49,Antiseptic,Lankaran
+1719,117,21/08/2023,291.81,Allergy Medicine,Sumqayit
+1748,118,07/06/2024,333,Allergy Medicine,Baku
+1337,119,12/12/2023,52.15,Syringe,Lankaran
+1878,120,15/02/2023,327.8,Syringe,Sumqayit
+1052,121,29/06/2024,159.51,Syringe,Shaki
+1791,122,19/03/2023,202.53,Antiseptic,Lankaran
+1921,123,14/03/2023,429.7,Syringe,Lankaran
+1216,124,06/09/2023,9.47,Allergy Medicine,Ganja
+1763,125,16/02/2023,296.26,Analgesic,Shaki
+1187,126,01/05/2023,301.36,Syringe,Baku
+1379,127,02/08/2023,201.35,Antibiotic,Shirvan
+1492,128,27/08/2023,122.33,Antiviral,Nakhchivan
+1040,129,25/02/2023,121.16,Antiseptic,Sumqayit
+1156,130,16/12/2023,442.44,Antibiotic,Ganja
+1014,131,17/04/2023,223.8,Syringe,Sumqayit
+1812,132,17/02/2023,168.79,Allergy Medicine,Baku
+1064,133,26/07/2024,227.14,Analgesic,Baku
+1856,134,03/12/2023,336.35,Vitamin,Lankaran
+1838,135,26/01/2023,77.15,Bandage,Nakhchivan
+1520,136,14/09/2023,227.47,Antiviral,Baku
+1343,137,08/01/2023,296,Bandage,Sumqayit
+1128,138,16/09/2024,474.55,Syringe,Shaki
+1647,139,10/09/2023,130,Antiviral,Shaki
+1471,140,22/11/2024,182.83,Antiviral,Lankaran
+1062,141,30/10/2023,192.78,Analgesic,Shirvan
+1138,142,30/09/2024,304.74,Antiviral,Sumqayit
+1498,143,25/02/2023,181.58,Antiseptic,Sumqayit
+1592,144,09/06/2024,269.09,Antibiotic,Baku
+1391,145,18/04/2024,391.99,Antibiotic,Nakhchivan
+1674,146,28/01/2023,354.17,Antibiotic,Sumqayit
+1418,147,19/03/2023,225.95,Antiseptic,Ganja
+1288,148,04/08/2023,432.79,Bandage,Shirvan
+1378,149,21/01/2024,281.28,Analgesic,Baku
+1772,150,31/12/2023,272.25,Antiviral,Ganja
+1489,151,27/10/2024,21.92,Antiseptic,Lankaran
+1230,152,09/06/2024,493.41,Antibiotic,Shaki
+1040,153,29/11/2024,65.87,Syringe,Lankaran
+1027,154,08/11/2023,119.41,Vitamin,Shaki
+1134,155,07/01/2023,30.59,Antiviral,Lankaran
+1200,156,03/01/2023,321.8,Antiseptic,Sumqayit
+1839,157,14/09/2024,116.23,Allergy Medicine,Ganja
+1779,158,29/12/2023,94.11,Antiseptic,Shaki
+1929,159,22/05/2024,48.84,Analgesic,Baku
+1032,160,01/10/2023,56.14,Analgesic,Ganja
+1047,161,20/05/2024,294.41,Antiseptic,Baku
+1502,162,15/01/2023,345.66,Antibiotic,Ganja
+1406,163,11/07/2023,201.7,Vitamin,Ganja
+1573,164,22/09/2024,242.55,Antiviral,Lankaran
+1727,165,29/04/2024,344.55,Analgesic,Shaki
+1804,166,28/01/2023,13.6,Antiviral,Shaki
+1098,167,08/02/2023,164.95,Antibiotic,Nakhchivan
+1683,168,30/09/2023,486.68,Antiviral,Ganja
+1871,169,19/08/2023,292.16,Syringe,Sumqayit
+1725,170,27/03/2023,130.84,Analgesic,Sumqayit
+1986,171,18/04/2024,263.26,Antibiotic,Baku
+1546,172,06/05/2023,174.61,Antibiotic,Baku
+1960,173,20/06/2024,268.46,Vitamin,Lankaran
+1738,174,25/05/2023,67.24,Vitamin,Ganja
+1612,175,08/06/2024,70.69,Syringe,Baku
+1942,176,31/07/2023,76.05,Antibiotic,Baku
+1461,177,25/01/2023,470.21,Bandage,Shirvan
+1642,178,02/08/2024,367.78,Antibiotic,Ganja
+1768,179,29/01/2024,85.38,Vitamin,Lankaran
+1004,180,08/03/2023,98.23,Bandage,Baku
+1217,181,21/08/2023,366.76,Analgesic,Lankaran
+1502,182,19/04/2023,82.3,Analgesic,Shaki
+1766,183,26/05/2023,121.11,Antiviral,Lankaran
+1397,184,21/04/2023,481.86,Antiseptic,Sumqayit
+1870,185,16/08/2023,131.38,Vitamin,Sumqayit
+1794,186,21/04/2023,332.51,Antiseptic,Lankaran
+1392,187,14/04/2024,489.42,Bandage,Sumqayit
+1206,188,03/02/2023,190.28,Vitamin,Shaki
+1014,189,14/09/2024,13.67,Syringe,Ganja
+1857,190,04/01/2024,125.85,Antibiotic,Sumqayit
+1553,191,17/08/2024,416.28,Syringe,Sumqayit
+1891,192,07/07/2024,432.98,Bandage,Lankaran
+1460,193,29/02/2024,385.42,Vitamin,Shaki
+1690,194,04/09/2024,60.99,Allergy Medicine,Nakhchivan
+1574,195,01/06/2024,398.78,Bandage,Nakhchivan
+1863,196,22/11/2024,459.75,Allergy Medicine,Nakhchivan
+1742,197,09/10/2023,302.3,Antibiotic,Nakhchivan
+1240,198,16/11/2023,470.73,Analgesic,Ganja
+1563,199,18/03/2024,414.29,Analgesic,Lankaran
+1095,200,11/11/2023,335.15,Bandage,Lankaran
+1899,201,12/01/2024,290.71,Antiseptic,Shirvan
+1733,202,16/10/2023,177.54,Vitamin,Shaki
+1484,203,12/03/2024,83.85,Vitamin,Nakhchivan
+1406,204,23/10/2024,304.45,Analgesic,Ganja
+1230,205,04/10/2023,162.47,Antiviral,Shaki
+1748,206,04/08/2024,433.89,Syringe,Nakhchivan
+1654,207,17/05/2024,496.7,Antiviral,Ganja
+1170,208,15/09/2024,377.45,Antibiotic,Shaki
+1540,209,30/05/2024,49.79,Syringe,Lankaran
+1035,210,16/12/2023,147.9,Syringe,Lankaran
+1524,211,21/03/2024,59.01,Bandage,Baku
+1159,212,16/12/2023,327,Analgesic,Sumqayit
+1838,213,29/08/2024,383.77,Antiviral,Nakhchivan
+1698,214,25/10/2024,463.21,Antiviral,Shirvan
+1242,215,17/05/2023,221.9,Analgesic,Shaki
+1085,216,31/08/2023,451.18,Antiviral,Shirvan
+1795,217,26/06/2024,439.56,Allergy Medicine,Baku
+1577,218,09/02/2023,162.01,Analgesic,Sumqayit
+1681,219,17/08/2023,435.11,Bandage,Shaki
+1556,220,01/07/2024,190.96,Antiseptic,Ganja
+1573,221,11/08/2023,151.95,Syringe,Nakhchivan
+1952,222,06/01/2023,326.29,Bandage,Sumqayit
+1645,223,18/11/2023,167.55,Vitamin,Lankaran
+1795,224,12/04/2024,316.95,Antibiotic,Baku
+1027,225,16/03/2023,306.87,Antiseptic,Sumqayit
+1619,226,04/01/2023,283.9,Vitamin,Nakhchivan
+1555,227,07/10/2024,193.31,Syringe,Sumqayit
+1339,228,28/04/2023,276.51,Antiviral,Nakhchivan
+1797,229,28/08/2024,300.26,Analgesic,Lankaran
+1957,230,18/05/2024,275.12,Syringe,Shaki
+1330,231,27/07/2024,224.99,Bandage,Ganja
+1639,232,16/03/2024,12.26,Antibiotic,Lankaran
+1505,233,13/07/2023,295.6,Bandage,Ganja
+1347,234,27/01/2024,88.38,Antiseptic,Shaki
+1472,235,26/01/2023,323.08,Antiseptic,Sumqayit
+1230,236,10/03/2024,380.88,Antibiotic,Ganja
+1189,237,22/06/2023,252.72,Allergy Medicine,Baku
+1224,238,27/10/2023,273.47,Vitamin,Baku
+1384,239,06/10/2024,475.98,Vitamin,Nakhchivan
+1376,240,22/11/2023,424.35,Antiseptic,Lankaran
+1282,241,14/02/2024,457.55,Antiseptic,Shaki
+1957,242,28/04/2023,407.81,Antiviral,Nakhchivan
+1632,243,13/08/2023,58.91,Analgesic,Lankaran
+1627,244,15/06/2024,78.75,Antiviral,Lankaran
+1972,245,23/04/2023,265.68,Antiviral,Nakhchivan
+1744,246,20/05/2023,126.8,Allergy Medicine,Shirvan
+1258,247,12/07/2024,240.96,Vitamin,Lankaran
+1358,248,01/01/2023,200.21,Allergy Medicine,Shirvan
+1709,249,31/03/2023,276.96,Allergy Medicine,Baku
+1455,250,15/10/2024,374.7,Antibiotic,Baku
+1410,251,16/11/2023,359.17,Vitamin,Lankaran
+1648,252,03/07/2024,263.01,Analgesic,Baku
+1317,253,19/05/2023,412.08,Bandage,Shaki
+1676,254,25/05/2024,218.28,Antiseptic,Shirvan
+1224,255,16/09/2023,448.87,Antiseptic,Shirvan
+1818,256,03/11/2024,40.28,Analgesic,Lankaran
+1233,257,20/11/2024,477.56,Allergy Medicine,Baku
+1683,258,10/01/2023,329.07,Antiviral,Ganja
+1663,259,18/09/2023,193.14,Antibiotic,Nakhchivan
+1974,260,11/10/2024,102.59,Allergy Medicine,Nakhchivan
+1826,261,21/06/2023,242.2,Antiseptic,Shirvan
+1373,262,13/01/2023,101.31,Syringe,Lankaran
+1671,263,17/06/2023,87.33,Antiviral,Lankaran
+1607,264,03/10/2024,310.59,Antiseptic,Shaki
+1471,265,18/08/2024,263.93,Syringe,Sumqayit
+1232,266,17/11/2023,336.7,Allergy Medicine,Sumqayit
+1691,267,15/11/2023,465.15,Analgesic,Shirvan
+1112,268,04/09/2024,268.47,Analgesic,Nakhchivan
+1829,269,25/11/2023,292.56,Antiviral,Shaki
+1496,270,03/07/2024,49.37,Antiseptic,Shaki
+1441,271,23/02/2024,360.23,Vitamin,Shaki
+1563,272,28/08/2024,202.95,Syringe,Shirvan
+1267,273,05/04/2023,488.48,Antibiotic,Sumqayit
+1509,274,03/08/2024,412.47,Antiseptic,Nakhchivan
+1806,275,14/11/2023,263.63,Antibiotic,Shaki
+1385,276,24/08/2023,66,Antiseptic,Nakhchivan
+1386,277,30/11/2023,430.41,Vitamin,Baku
+1112,278,11/01/2024,400.89,Vitamin,Lankaran
+1612,279,03/04/2024,96.37,Antiviral,Lankaran
+1624,280,17/05/2023,151.16,Antiviral,Nakhchivan
+1951,281,10/08/2024,397.74,Vitamin,Ganja
+1080,282,30/06/2024,96.69,Bandage,Ganja
+1698,283,27/05/2024,459.29,Vitamin,Shirvan
+1112,284,23/10/2023,215.14,Analgesic,Shirvan
+1001,285,16/11/2023,48.08,Analgesic,Lankaran
+1641,286,25/07/2024,408.8,Bandage,Baku
+1219,287,15/12/2023,189.89,Allergy Medicine,Sumqayit
+1565,288,17/08/2023,265.62,Syringe,Sumqayit
+1854,289,27/09/2023,60.59,Allergy Medicine,Shirvan
+1996,290,18/10/2023,6.28,Antibiotic,Baku
+1735,291,14/06/2023,320.8,Allergy Medicine,Shirvan
+1224,292,05/01/2023,260.01,Antiseptic,Sumqayit
+1384,293,14/01/2024,298.8,Allergy Medicine,Nakhchivan
+1402,294,19/03/2023,397.9,Antiseptic,Shirvan
+1637,295,14/02/2024,325.07,Bandage,Shaki
+1129,296,27/07/2024,91.51,Analgesic,Nakhchivan
+1052,297,12/05/2023,183.58,Antiviral,Shirvan
+1683,298,23/08/2024,453.42,Antiseptic,Lankaran
+1729,299,11/02/2023,386.12,Analgesic,Shirvan
+1671,300,30/03/2023,280.54,Syringe,Lankaran
+1709,301,06/02/2024,131.54,Antibiotic,Baku
+1415,302,23/10/2023,154.52,Syringe,Sumqayit
+1246,303,22/10/2023,367.32,Bandage,Nakhchivan
+1835,304,07/09/2024,426.33,Allergy Medicine,Nakhchivan
+1438,305,09/06/2024,337.36,Allergy Medicine,Ganja
+1202,306,21/11/2024,405.72,Vitamin,Ganja
+1183,307,28/09/2024,384.49,Vitamin,Sumqayit
+1122,308,26/02/2024,79.1,Vitamin,Ganja
+1400,309,23/01/2023,214.85,Syringe,Nakhchivan
+1766,310,28/07/2024,80.73,Antiseptic,Shirvan
+1293,311,23/05/2023,121.44,Antibiotic,Baku
+1279,312,26/10/2024,435.28,Vitamin,Baku
+1836,313,25/05/2023,239.08,Bandage,Sumqayit
+1883,314,13/08/2023,270,Bandage,Ganja
+1609,315,17/05/2024,93.33,Vitamin,Shirvan
+1197,316,07/09/2024,159.57,Allergy Medicine,Baku
+1981,317,14/04/2023,118.97,Vitamin,Baku
+1906,318,08/02/2023,107.06,Antibiotic,Shaki
+1510,319,17/07/2023,320.79,Vitamin,Shaki
+1751,320,07/10/2024,132.16,Antibiotic,Nakhchivan
+1143,321,01/08/2024,317.85,Bandage,Baku
+1608,322,26/01/2024,33.94,Vitamin,Sumqayit
+1200,323,28/06/2023,75.18,Syringe,Lankaran
+1123,324,07/07/2024,140.9,Antiviral,Lankaran
+1186,325,23/03/2024,300.54,Syringe,Shirvan
+1325,326,14/05/2024,339.54,Bandage,Baku
+1463,327,15/01/2023,224.14,Antibiotic,Baku
+1348,328,14/09/2024,225.67,Syringe,Nakhchivan
+1770,329,30/10/2024,363.64,Antibiotic,Baku
+1659,330,16/10/2023,12.83,Syringe,Sumqayit
+1763,331,22/04/2024,173.84,Syringe,Shaki
+1954,332,19/08/2023,410.26,Antibiotic,Baku
+1931,333,24/02/2024,303.59,Antiseptic,Baku
+1402,334,06/06/2023,171.93,Syringe,Nakhchivan
+1345,335,03/07/2024,453.23,Vitamin,Ganja
+1962,336,16/03/2024,387.45,Antiviral,Nakhchivan
+1510,337,07/04/2023,136.12,Bandage,Nakhchivan
+1146,338,15/02/2024,324.42,Antiseptic,Sumqayit
+1147,339,16/10/2023,299.9,Antibiotic,Shirvan
+1863,340,11/09/2023,203.59,Antiseptic,Baku
+1710,341,15/07/2023,186.64,Analgesic,Nakhchivan
+1819,342,20/08/2024,175.06,Analgesic,Nakhchivan
+1488,343,05/06/2024,310.49,Syringe,Ganja
+1928,344,31/05/2024,223.99,Syringe,Nakhchivan
+1935,345,26/09/2024,416.77,Vitamin,Lankaran
+1639,346,28/04/2023,336.45,Antiviral,Shirvan
+1550,347,08/06/2023,39.62,Bandage,Baku
+1337,348,16/08/2023,321.88,Antiseptic,Baku
+1871,349,04/08/2023,139.22,Analgesic,Ganja
+1640,350,26/11/2024,298.44,Syringe,Sumqayit
+1778,351,15/01/2023,341.67,Allergy Medicine,Baku
+1987,352,06/06/2023,119.26,Allergy Medicine,Lankaran
+1952,353,09/10/2024,231.15,Bandage,Baku
+1472,354,18/09/2023,99.21,Antiseptic,Lankaran
+1945,355,06/06/2023,30.91,Syringe,Shirvan
+1150,356,16/02/2023,192.35,Syringe,Shirvan
+1414,357,20/11/2023,184.66,Analgesic,Shaki
+1989,358,15/11/2024,497.76,Analgesic,Shaki
+1297,359,10/05/2023,225.94,Syringe,Lankaran
+1610,360,15/02/2024,170.12,Antibiotic,Sumqayit
+1262,361,05/04/2023,292.34,Syringe,Baku
+1763,362,18/09/2024,48.94,Bandage,Nakhchivan
+1143,363,19/10/2023,481.02,Syringe,Baku
+1345,364,10/10/2023,319.31,Vitamin,Shaki
+1623,365,10/03/2023,378.64,Antiviral,Nakhchivan
+1571,366,21/10/2024,89.39,Vitamin,Lankaran
+1880,367,11/01/2023,207.69,Vitamin,Nakhchivan
+1001,368,11/09/2023,214.23,Antibiotic,Baku
+1896,369,03/07/2024,411.79,Antibiotic,Baku
+1303,370,14/05/2023,5.61,Allergy Medicine,Sumqayit
+1253,371,23/01/2023,153.92,Syringe,Ganja
+1651,372,12/12/2023,490.71,Vitamin,Nakhchivan
+1452,373,29/10/2023,240.07,Antibiotic,Shaki
+1036,374,29/12/2023,194.35,Analgesic,Shaki
+1159,375,31/01/2024,64.32,Syringe,Ganja
+1008,376,06/08/2023,487.21,Bandage,Baku
+1232,377,21/05/2023,14.91,Antiviral,Sumqayit
+1098,378,07/09/2024,369.9,Antiseptic,Sumqayit
+1658,379,29/07/2023,385.46,Syringe,Shaki
+1815,380,14/09/2024,125.61,Antiseptic,Sumqayit
+1207,381,07/09/2024,337.42,Vitamin,Shirvan
+1130,382,13/11/2024,51,Antiviral,Ganja
+1403,383,04/04/2024,132.24,Antiseptic,Baku
+1151,384,22/12/2023,395.01,Vitamin,Shirvan
+1053,385,20/11/2023,433.02,Analgesic,Ganja
+1119,386,13/05/2023,306.2,Antiseptic,Lankaran
+1672,387,07/05/2023,255.89,Antiviral,Nakhchivan
+1919,388,16/04/2023,83.86,Allergy Medicine,Shaki
+1627,389,26/08/2024,36.24,Syringe,Sumqayit
+1586,390,13/01/2024,63.24,Vitamin,Lankaran
+1624,391,20/02/2023,117.54,Syringe,Sumqayit
+1967,392,29/01/2023,174.13,Antiviral,Shirvan
+1419,393,06/04/2024,193.55,Antibiotic,Baku
+1421,394,23/10/2023,176.43,Vitamin,Baku
+1103,395,24/10/2023,123.33,Antiseptic,Baku
+1851,396,11/02/2024,257.31,Vitamin,Sumqayit
+1253,397,04/09/2024,413.52,Syringe,Lankaran
+1226,398,09/02/2024,143.45,Analgesic,Baku
+1111,399,12/12/2023,471.48,Vitamin,Lankaran
+1509,400,13/09/2024,437.3,Antiseptic,Sumqayit
+1472,401,24/02/2024,85.07,Antibiotic,Shirvan
+1098,402,01/07/2023,394.21,Allergy Medicine,Lankaran
+1152,403,01/01/2023,289.42,Bandage,Shirvan
+1860,404,20/07/2024,285.45,Analgesic,Sumqayit
+1913,405,06/01/2024,198.57,Allergy Medicine,Sumqayit
+1895,406,22/10/2024,253.07,Antibiotic,Shaki
+1877,407,06/03/2024,201.6,Vitamin,Sumqayit
+1337,408,05/11/2023,272.17,Syringe,Sumqayit
+1705,409,17/05/2023,315.84,Antiviral,Ganja
+1821,410,21/07/2023,338.78,Syringe,Baku
+1162,411,11/03/2024,268.58,Allergy Medicine,Shaki
+1719,412,09/11/2023,362.1,Antiseptic,Nakhchivan
+1956,413,27/04/2023,74.93,Syringe,Shaki
+1680,414,27/10/2024,109.93,Analgesic,Shaki
+1995,415,28/07/2024,410.27,Syringe,Nakhchivan
+1160,416,01/09/2023,164.65,Antiseptic,Ganja
+1579,417,20/06/2024,16.33,Bandage,Shirvan
+1800,418,24/08/2024,81.13,Vitamin,Sumqayit
+1397,419,16/03/2023,115.69,Antiviral,Baku
+1276,420,21/01/2024,478.87,Allergy Medicine,Lankaran
+1815,421,29/07/2023,288.66,Vitamin,Nakhchivan
+1915,422,19/04/2024,466.7,Syringe,Shirvan
+1503,423,22/02/2024,289.71,Antibiotic,Nakhchivan
+1895,424,13/12/2023,242.28,Vitamin,Sumqayit
+1391,425,12/06/2024,160.3,Bandage,Ganja
+1134,426,01/10/2024,305.15,Syringe,Nakhchivan
+1194,427,28/06/2023,73.9,Antiviral,Sumqayit
+1400,428,01/07/2023,449.64,Antiseptic,Sumqayit
+1639,429,25/10/2024,415.52,Bandage,Ganja
+1032,430,25/01/2023,162.18,Syringe,Shaki
+1687,431,29/06/2023,476.63,Bandage,Shaki
+1459,432,15/05/2024,413.47,Vitamin,Baku
+1954,433,10/06/2023,334.82,Antiviral,Baku
+1882,434,26/06/2023,65.27,Antiseptic,Shaki
+1469,435,12/10/2023,241.73,Syringe,Shirvan
+1374,436,04/03/2023,255.52,Analgesic,Lankaran
+1021,437,23/10/2024,120.11,Allergy Medicine,Sumqayit
+1749,438,27/10/2024,44.58,Antiseptic,Lankaran
+1669,439,05/06/2023,389.48,Analgesic,Sumqayit
+1037,440,13/04/2024,65.41,Bandage,Shaki
+1229,441,18/02/2023,299.17,Antibiotic,Baku
+1364,442,25/03/2023,468.54,Antiseptic,Shirvan
+1562,443,27/12/2023,438.67,Bandage,Baku
+1437,444,19/11/2024,142.49,Analgesic,Lankaran
+1775,445,28/05/2023,426.47,Vitamin,Baku
+1282,446,21/09/2024,5.16,Vitamin,Shaki
+1026,447,08/12/2023,13.76,Antibiotic,Shirvan
+1225,448,20/04/2024,303.26,Allergy Medicine,Lankaran
+1276,449,04/03/2023,185.58,Antiseptic,Shirvan
+1797,450,26/12/2023,196.3,Antiseptic,Sumqayit
+1608,451,14/07/2024,284.4,Antiseptic,Baku
+1283,452,23/11/2023,99.93,Allergy Medicine,Shirvan
+1878,453,21/05/2023,109.82,Bandage,Ganja
+1959,454,03/08/2023,244.88,Antiviral,Baku
+1480,455,10/03/2024,378.36,Antiviral,Sumqayit
+1452,456,14/11/2023,311.65,Antibiotic,Shirvan
+1828,457,01/02/2023,152.19,Antiseptic,Lankaran
+1815,458,31/10/2024,218.02,Bandage,Sumqayit
+1658,459,12/10/2023,89.48,Vitamin,Ganja
+1515,460,01/11/2023,41.94,Analgesic,Shirvan
+1546,461,04/03/2024,392.43,Bandage,Nakhchivan
+1191,462,21/04/2024,136.37,Allergy Medicine,Nakhchivan
+1048,463,13/10/2023,92.99,Antiviral,Shaki
+1511,464,24/05/2023,347.35,Antiviral,Baku
+1016,465,28/02/2024,310.94,Vitamin,Lankaran
+1171,466,19/01/2023,318.43,Vitamin,Shaki
+1219,467,18/01/2023,118.3,Allergy Medicine,Shirvan
+1157,468,12/08/2024,120.16,Analgesic,Nakhchivan
+1476,469,06/01/2024,114.3,Vitamin,Nakhchivan
+1045,470,24/06/2023,91.01,Antibiotic,Nakhchivan
+1372,471,13/07/2023,329.58,Analgesic,Shirvan
+1517,472,16/05/2024,424.77,Vitamin,Nakhchivan
+1098,473,23/04/2023,363.54,Syringe,Sumqayit
+1891,474,24/04/2023,397.09,Bandage,Shirvan
+1744,475,10/08/2023,205.38,Vitamin,Lankaran
+1036,476,08/11/2024,328.77,Antibiotic,Shaki
+1279,477,05/10/2024,180.35,Antiseptic,Lankaran
+1348,478,21/09/2023,265.12,Vitamin,Ganja
+1496,479,24/02/2023,243.41,Antiviral,Nakhchivan
+1301,480,04/10/2024,92.56,Antiviral,Ganja
+1180,481,02/04/2024,196.6,Antiviral,Baku
+1606,482,11/06/2023,482.09,Antiseptic,Baku
+1098,483,15/01/2024,128.05,Antiviral,Ganja
+1699,484,28/03/2023,71.23,Syringe,Shirvan
+1992,485,24/02/2023,212.2,Vitamin,Lankaran
+1115,486,20/04/2024,396.22,Allergy Medicine,Ganja
+1190,487,27/06/2023,293.16,Antiviral,Baku
+1252,488,26/01/2024,342.08,Analgesic,Ganja
+1980,489,15/12/2023,98.9,Allergy Medicine,Shirvan
+1927,490,08/01/2023,311.38,Antiseptic,Ganja
+1982,491,09/11/2023,165.13,Syringe,Lankaran
+1160,492,18/03/2024,417.98,Analgesic,Shaki
+1255,493,24/11/2023,316.5,Analgesic,Shirvan
+1322,494,23/02/2023,103.43,Analgesic,Baku
+1127,495,27/08/2023,36.99,Analgesic,Lankaran
+1017,496,17/08/2023,26.1,Allergy Medicine,Ganja
+1792,497,01/08/2024,188.85,Allergy Medicine,Ganja
+1734,498,20/02/2023,136.6,Vitamin,Shaki
+1565,499,31/08/2024,324.81,Antiviral,Baku
+1569,500,26/08/2024,252.17,Bandage,Baku
+1322,501,21/09/2023,136.68,Vitamin,Sumqayit
+1871,502,22/02/2024,78.87,Vitamin,Baku
+1685,503,06/04/2023,67.96,Syringe,Shaki
+1791,504,29/03/2023,433.01,Syringe,Nakhchivan
+1625,505,19/03/2023,125.52,Antiviral,Sumqayit
+1287,506,15/10/2023,327.6,Bandage,Sumqayit
+1942,507,30/04/2023,406.29,Syringe,Ganja
+1853,508,05/05/2024,308.97,Antiviral,Ganja
+1662,509,27/03/2024,430.48,Antiviral,Baku
+1961,510,14/05/2024,199.23,Allergy Medicine,Sumqayit
+1638,511,14/06/2023,478.33,Antibiotic,Ganja
+1154,512,01/07/2023,70.91,Allergy Medicine,Shaki
+1489,513,13/04/2024,55.56,Bandage,Ganja
+1385,514,07/01/2023,331.05,Syringe,Shirvan
+1985,515,26/11/2023,471.7,Bandage,Shirvan
+1784,516,03/11/2024,405.4,Vitamin,Ganja
+1103,517,31/05/2023,42.83,Vitamin,Sumqayit
+1928,518,26/03/2023,143.29,Bandage,Nakhchivan
+1392,519,27/05/2023,465.51,Antibiotic,Nakhchivan
+1810,520,15/09/2024,130.26,Antibiotic,Sumqayit
+1245,521,16/01/2024,391.68,Allergy Medicine,Lankaran
+1175,522,01/07/2024,413.44,Bandage,Nakhchivan
+1038,523,12/10/2023,250.25,Syringe,Shirvan
+1476,524,30/11/2024,196.24,Allergy Medicine,Shaki
+1681,525,23/03/2023,227.81,Antiseptic,Sumqayit
+1758,526,28/05/2024,117.35,Antibiotic,Baku
+1537,527,06/06/2024,445.25,Analgesic,Shirvan
+1866,528,21/01/2024,228.06,Allergy Medicine,Shaki
+1817,529,15/04/2024,441.82,Vitamin,Shaki
+1920,530,29/04/2023,57.32,Allergy Medicine,Sumqayit
+1407,531,31/01/2024,494.2,Bandage,Shaki
+1524,532,15/06/2024,224.42,Analgesic,Sumqayit
+1827,533,18/09/2023,28.68,Bandage,Nakhchivan
+1505,534,13/09/2023,23.82,Antiviral,Ganja
+1902,535,14/08/2023,374.37,Vitamin,Shirvan
+1824,536,22/02/2023,331.22,Vitamin,Lankaran
+1035,537,14/05/2024,402.05,Antibiotic,Ganja
+1684,538,20/05/2024,57.16,Allergy Medicine,Shirvan
+1019,539,30/12/2023,22.61,Antibiotic,Sumqayit
+1320,540,07/10/2023,256.75,Analgesic,Shirvan
+1775,541,15/08/2024,196.86,Allergy Medicine,Nakhchivan
+1511,542,07/06/2023,233.66,Antiviral,Sumqayit
+1399,543,23/09/2024,495.84,Bandage,Ganja
+1653,544,28/02/2023,485.52,Antiviral,Baku
+1971,545,08/05/2023,471.45,Vitamin,Baku
+1882,546,25/04/2023,393,Analgesic,Shirvan
+1470,547,28/07/2023,180.65,Antiseptic,Baku
+1142,548,09/06/2024,209,Analgesic,Sumqayit
+1091,549,04/06/2024,277.06,Syringe,Shaki
+1353,550,05/07/2024,416.11,Analgesic,Sumqayit
+1833,551,25/08/2023,39.01,Antiviral,Shaki
+1799,552,08/10/2023,215.03,Syringe,Ganja
+1726,553,25/12/2023,45.9,Syringe,Lankaran
+1958,554,20/07/2023,259.76,Allergy Medicine,Shaki
+1853,555,05/10/2023,449.96,Allergy Medicine,Baku
+1050,556,23/08/2023,392.33,Syringe,Sumqayit
+1664,557,08/05/2024,117.78,Antiseptic,Ganja
+1697,558,04/01/2023,488.12,Allergy Medicine,Baku
+1574,559,27/10/2024,335.34,Analgesic,Ganja
+1189,560,17/03/2024,10.16,Antiviral,Lankaran
+1124,561,29/01/2023,131.43,Analgesic,Nakhchivan
+1149,562,19/04/2023,134.05,Antiseptic,Sumqayit
+1313,563,01/09/2024,39.28,Vitamin,Shirvan
+1569,564,16/03/2023,480.11,Antibiotic,Sumqayit
+1341,565,26/05/2023,241.74,Antiviral,Lankaran
+1304,566,08/05/2023,448.43,Allergy Medicine,Sumqayit
+1691,567,11/02/2023,164.5,Antiviral,Shirvan
+1681,568,22/12/2023,66.99,Analgesic,Shaki
+1837,569,10/02/2023,239.8,Antibiotic,Ganja
+1782,570,03/02/2023,61.41,Bandage,Shirvan
+1053,571,17/01/2023,245.58,Bandage,Baku
+1443,572,07/11/2024,460.55,Allergy Medicine,Lankaran
+1612,573,02/06/2023,262.78,Antiseptic,Shaki
+1992,574,13/01/2024,310.17,Bandage,Baku
+1263,575,10/08/2024,82.54,Antiviral,Baku
+1052,576,21/08/2024,26.65,Bandage,Lankaran
+1571,577,20/09/2024,59.85,Vitamin,Shaki
+1619,578,08/12/2023,301.27,Vitamin,Nakhchivan
+1004,579,27/01/2023,52.03,Allergy Medicine,Baku
+1102,580,14/10/2023,191.12,Vitamin,Baku
+1195,581,07/10/2024,277.3,Bandage,Shaki
+1773,582,17/06/2023,197.38,Antiseptic,Sumqayit
+1876,583,01/09/2024,86.02,Syringe,Baku
+1991,584,25/09/2023,140.53,Syringe,Ganja
+1883,585,30/03/2024,464.52,Allergy Medicine,Shaki
+1349,586,15/11/2024,339.61,Antibiotic,Baku
+1046,587,05/02/2024,250.54,Syringe,Lankaran
+1866,588,20/04/2024,11.29,Syringe,Shirvan
+1822,589,25/09/2024,496.25,Vitamin,Ganja
+1935,590,11/07/2024,337.37,Vitamin,Shirvan
+1819,591,29/07/2024,161.88,Bandage,Shirvan
+1655,592,10/05/2023,440.24,Allergy Medicine,Baku
+1268,593,29/12/2023,132.92,Antibiotic,Ganja
+1369,594,23/11/2024,274.29,Allergy Medicine,Ganja
+1635,595,19/10/2023,319.86,Analgesic,Sumqayit
+1105,596,06/01/2024,114.43,Antiviral,Shirvan
+1669,597,29/01/2023,489.31,Antibiotic,Ganja
+1658,598,29/05/2023,375.35,Antibiotic,Sumqayit
+1656,599,23/10/2023,281.12,Antiseptic,Shaki
+1119,600,11/01/2023,94.39,Allergy Medicine,Sumqayit
+1830,601,26/05/2024,31.66,Bandage,Lankaran
+1786,602,06/11/2024,163.43,Antiseptic,Nakhchivan
+1603,603,23/04/2023,377.83,Antibiotic,Baku
+1057,604,06/07/2023,138.32,Antibiotic,Shaki
+1950,605,15/08/2023,272.08,Antibiotic,Nakhchivan
+1345,606,06/11/2023,365.33,Syringe,Nakhchivan
+1740,607,08/04/2023,58.43,Allergy Medicine,Shaki
+1473,608,24/02/2023,344.22,Antiviral,Lankaran
+1116,609,14/09/2024,50.48,Antiviral,Sumqayit
+1829,610,25/10/2024,482.74,Antiseptic,Baku
+1790,611,10/02/2024,246.76,Antibiotic,Sumqayit
+1126,612,10/03/2023,79.58,Antiviral,Ganja
+1392,613,08/11/2023,174.48,Vitamin,Sumqayit
+1907,614,16/10/2023,209.64,Allergy Medicine,Shaki
+1640,615,01/07/2024,380.3,Antiviral,Baku
+1057,616,28/05/2023,372.99,Bandage,Sumqayit
+1633,617,11/04/2024,307.91,Allergy Medicine,Baku
+1512,618,01/09/2023,57.44,Bandage,Baku
+1750,619,05/05/2024,80.03,Antiviral,Ganja
+1801,620,21/05/2024,51.41,Vitamin,Ganja
+1095,621,31/12/2023,290.7,Bandage,Shaki
+1637,622,26/04/2024,439.18,Syringe,Lankaran
+1117,623,20/07/2023,219.73,Antiviral,Nakhchivan
+1559,624,03/06/2023,84.62,Syringe,Baku
+1600,625,25/03/2024,281.23,Antiviral,Lankaran
+1487,626,15/05/2024,406.82,Analgesic,Nakhchivan
+1236,627,14/03/2023,372.15,Analgesic,Nakhchivan
+1884,628,23/10/2023,441.32,Analgesic,Shaki
+1896,629,17/01/2023,142.56,Bandage,Nakhchivan
+1271,630,02/10/2024,101.01,Syringe,Nakhchivan
+1188,631,05/08/2023,440.51,Syringe,Baku
+1998,632,02/03/2023,330.49,Syringe,Baku
+1703,633,07/09/2024,158.91,Vitamin,Shirvan
+1446,634,11/02/2023,372.46,Syringe,Lankaran
+1580,635,25/01/2023,408.48,Vitamin,Sumqayit
+1789,636,08/02/2023,309.41,Analgesic,Ganja
+1860,637,11/05/2023,345.5,Analgesic,Sumqayit
+1246,638,12/05/2024,190.75,Bandage,Lankaran
+1962,639,17/08/2023,271.65,Antiviral,Ganja
+1075,640,18/04/2023,264.46,Analgesic,Sumqayit
+1153,641,21/06/2023,424.78,Antiviral,Shirvan
+1655,642,10/03/2024,420.78,Antiviral,Ganja
+1434,643,22/04/2024,417.18,Allergy Medicine,Baku
+1996,644,12/04/2023,10.46,Bandage,Sumqayit
+1085,645,07/06/2024,376.03,Antibiotic,Ganja
+1696,646,02/10/2023,380.54,Antibiotic,Shirvan
+1284,647,04/09/2024,340.8,Antiseptic,Nakhchivan
+1973,648,13/02/2023,379.35,Allergy Medicine,Ganja
+1219,649,17/01/2023,421.78,Bandage,Ganja
+1068,650,26/11/2023,237.81,Antiseptic,Shirvan
+1046,651,22/07/2024,253.51,Antiseptic,Nakhchivan
+1093,652,11/05/2024,66.73,Allergy Medicine,Sumqayit
+1749,653,12/01/2023,195.76,Antibiotic,Shaki
+1957,654,14/11/2023,323.47,Bandage,Sumqayit
+1452,655,14/08/2024,391.3,Antibiotic,Nakhchivan
+1203,656,04/08/2023,112.52,Antiseptic,Lankaran
+1911,657,05/12/2023,73.22,Bandage,Shirvan
+1217,658,22/10/2024,333.21,Antiseptic,Sumqayit
+1473,659,22/03/2023,5.93,Syringe,Ganja
+1431,660,29/04/2024,93.29,Allergy Medicine,Shirvan
+1340,661,09/01/2024,19.39,Antiviral,Baku
+1550,662,19/07/2023,87.61,Bandage,Nakhchivan
+1611,663,20/06/2024,94.75,Bandage,Sumqayit
+1288,664,10/04/2024,196.9,Antiviral,Shirvan
+1253,665,30/03/2023,204.15,Antiseptic,Sumqayit
+1733,666,25/09/2023,437.76,Syringe,Shirvan
+1356,667,16/10/2024,257.5,Vitamin,Ganja
+1022,668,24/07/2024,363.09,Antiviral,Baku
+1761,669,03/05/2024,56.55,Allergy Medicine,Baku
+1521,670,21/06/2024,116.59,Antibiotic,Lankaran
+1757,671,16/02/2023,352.96,Antiseptic,Shirvan
+1836,672,15/10/2023,31.14,Antiviral,Sumqayit
+1099,673,16/01/2023,245.87,Antiviral,Baku
+1801,674,05/02/2024,301.69,Bandage,Nakhchivan
+1179,675,27/03/2023,303.06,Antibiotic,Baku
+1222,676,07/09/2023,16.35,Antibiotic,Shaki
+1905,677,26/01/2024,164.44,Allergy Medicine,Shaki
+1761,678,01/12/2023,320.06,Antibiotic,Baku
+1658,679,20/09/2024,78.75,Antiviral,Shirvan
+1441,680,02/06/2024,349.23,Vitamin,Lankaran
+1607,681,17/05/2023,374.23,Analgesic,Baku
+1768,682,18/11/2024,491.07,Antiseptic,Ganja
+1324,683,12/05/2024,108.87,Analgesic,Sumqayit
+1515,684,21/04/2024,413.44,Antiviral,Lankaran
+1015,685,16/08/2024,262.55,Analgesic,Ganja
+1791,686,11/08/2023,189.86,Antiviral,Lankaran
+1335,687,07/01/2024,65.58,Analgesic,Ganja
+1758,688,06/02/2024,369.08,Antibiotic,Sumqayit
+1257,689,18/03/2024,121.75,Syringe,Sumqayit
+1496,690,04/05/2024,188.85,Antibiotic,Shaki
+1987,691,06/09/2024,35.96,Antibiotic,Shirvan
+1895,692,30/09/2023,401.68,Allergy Medicine,Ganja
+1159,693,09/06/2024,384.46,Bandage,Shaki
+1474,694,08/06/2023,368.14,Bandage,Ganja
+1851,695,01/06/2023,153.22,Analgesic,Shaki
+1663,696,11/09/2024,90.87,Antiviral,Sumqayit
+1907,697,07/07/2023,320.59,Allergy Medicine,Lankaran
+1689,698,08/04/2023,250.6,Antibiotic,Nakhchivan
+1674,699,11/05/2023,93.23,Allergy Medicine,Shaki
+1379,700,20/06/2023,344.53,Analgesic,Ganja
+1544,701,02/07/2023,495.61,Bandage,Ganja
+1928,702,30/12/2023,374.87,Syringe,Nakhchivan
+1956,703,08/02/2023,371.29,Antiseptic,Shirvan
+1690,704,10/06/2024,475.4,Analgesic,Sumqayit
+1426,705,11/05/2024,105.45,Allergy Medicine,Ganja
+1612,706,30/05/2024,284.95,Syringe,Baku
+1267,707,15/12/2023,489.93,Antiseptic,Lankaran
+1834,708,01/02/2024,86.82,Vitamin,Shaki
+1576,709,10/06/2023,351.62,Analgesic,Shirvan
+1416,710,16/01/2023,294.98,Analgesic,Nakhchivan
+1167,711,07/05/2024,295.31,Vitamin,Lankaran
+1841,712,01/03/2024,350.35,Vitamin,Sumqayit
+1042,713,18/04/2023,465.16,Analgesic,Shirvan
+1555,714,25/03/2024,392.38,Vitamin,Shaki
+1284,715,07/11/2023,32.79,Antibiotic,Shaki
+1396,716,19/06/2023,427.1,Antiseptic,Nakhchivan
+1011,717,29/06/2024,116.64,Antiseptic,Baku
+1606,718,18/02/2024,191.57,Antiseptic,Nakhchivan
+1301,719,08/09/2023,233.56,Antibiotic,Sumqayit
+1897,720,21/05/2023,243.05,Antiviral,Shirvan
+1252,721,01/10/2023,220.41,Vitamin,Shirvan
+1498,722,20/02/2024,468.99,Syringe,Ganja
+1753,723,30/08/2024,354.48,Vitamin,Baku
+1034,724,08/02/2023,317.43,Analgesic,Baku
+1726,725,29/01/2023,29.67,Bandage,Shirvan
+1848,726,21/04/2024,452.44,Allergy Medicine,Shirvan
+1089,727,14/11/2023,455.15,Allergy Medicine,Lankaran
+1775,728,02/09/2023,391.21,Antiseptic,Lankaran
+1604,729,27/11/2024,8.48,Vitamin,Lankaran
+1921,730,29/09/2023,33.35,Syringe,Baku
+1969,731,15/03/2024,116.49,Analgesic,Ganja
+1601,732,27/08/2023,70.02,Antibiotic,Shaki
+1417,733,12/01/2024,202.42,Antiviral,Lankaran
+1114,734,23/09/2023,461.7,Antibiotic,Ganja
+1616,735,25/12/2023,238.67,Syringe,Nakhchivan
+1902,736,06/12/2023,11.63,Analgesic,Sumqayit
+1195,737,24/01/2024,144.96,Antiseptic,Lankaran
+1825,738,30/07/2024,27.07,Vitamin,Nakhchivan
+1500,739,19/11/2024,22.96,Analgesic,Shaki
+1625,740,03/01/2023,141.48,Allergy Medicine,Sumqayit
+1492,741,04/03/2024,141.43,Antiviral,Sumqayit
+1074,742,22/05/2023,394.63,Antibiotic,Shaki
+1412,743,11/01/2024,487.54,Antiviral,Lankaran
+1375,744,31/10/2024,188.75,Antiviral,Baku
+1419,745,20/11/2023,217.3,Syringe,Shaki
+1728,746,26/05/2023,423.17,Syringe,Shaki
+1276,747,20/10/2023,137.73,Vitamin,Shaki
+1760,748,26/10/2024,82.41,Syringe,Sumqayit
+1675,749,07/03/2024,427.28,Syringe,Ganja
+1393,750,07/08/2024,28.02,Analgesic,Nakhchivan
+1868,751,03/02/2024,311.75,Allergy Medicine,Baku
+1456,752,10/12/2023,283.19,Antiseptic,Lankaran
+1919,753,20/05/2023,176.23,Vitamin,Lankaran
+1191,754,06/07/2023,161.02,Analgesic,Nakhchivan
+1738,755,02/03/2023,387.07,Antiseptic,Ganja
+1688,756,15/01/2024,47.78,Antiviral,Shaki
+1098,757,15/03/2024,122.21,Analgesic,Baku
+1547,758,15/11/2023,367.56,Bandage,Lankaran
+1977,759,29/10/2023,276.42,Analgesic,Nakhchivan
+1998,760,10/12/2023,68.35,Syringe,Shirvan
+1095,761,11/01/2023,441.66,Antiseptic,Nakhchivan
+1663,762,03/03/2023,199.76,Vitamin,Lankaran
+1662,763,14/08/2023,414.79,Vitamin,Shaki
+1189,764,02/06/2023,394.92,Antiseptic,Shirvan
+1735,765,17/07/2024,314.09,Syringe,Ganja
+1036,766,24/07/2024,249.77,Antibiotic,Baku
+1779,767,06/08/2024,489.88,Analgesic,Ganja
+1368,768,21/10/2024,76.76,Syringe,Ganja
+1694,769,28/07/2024,363.95,Bandage,Nakhchivan
+1524,770,06/11/2023,99.64,Allergy Medicine,Baku
+1278,771,31/08/2023,172.44,Antiviral,Baku
+1216,772,07/05/2024,157.81,Antiseptic,Lankaran
+1866,773,01/01/2024,473.78,Allergy Medicine,Lankaran
+1872,774,26/11/2023,483.84,Analgesic,Baku
+1797,775,17/04/2023,95.59,Vitamin,Shirvan
+1272,776,14/08/2023,15.91,Antiviral,Sumqayit
+1880,777,06/08/2023,361.4,Allergy Medicine,Lankaran
+1061,778,20/05/2024,211.91,Antibiotic,Sumqayit
+1595,779,16/09/2023,48.98,Allergy Medicine,Nakhchivan
+1879,780,31/05/2024,343.46,Bandage,Shirvan
+1728,781,23/02/2023,274.83,Vitamin,Baku
+1341,782,16/02/2023,490.36,Antiseptic,Shirvan
+1396,783,19/11/2024,117.57,Analgesic,Lankaran
+1698,784,04/06/2024,204.97,Antiseptic,Ganja
+1018,785,09/04/2023,273.56,Antiviral,Nakhchivan
+1176,786,20/01/2023,396.89,Analgesic,Baku
+1611,787,26/07/2024,276.68,Syringe,Shaki
+1395,788,04/05/2024,308.39,Antibiotic,Nakhchivan
+1444,789,23/02/2024,116.94,Syringe,Sumqayit
+1232,790,20/11/2024,424.22,Syringe,Shirvan
+1914,791,03/03/2023,217.17,Antiseptic,Baku
+1075,792,25/05/2023,74.78,Antiviral,Nakhchivan
+1264,793,04/08/2023,333.77,Antibiotic,Shirvan
+1454,794,03/01/2023,111.96,Allergy Medicine,Baku
+1795,795,09/06/2023,53.29,Analgesic,Lankaran
+1717,796,30/04/2023,431.68,Analgesic,Nakhchivan
+1734,797,30/03/2023,232.78,Bandage,Lankaran
+1383,798,25/11/2023,375.9,Vitamin,Nakhchivan
+1563,799,02/08/2024,148.84,Bandage,Lankaran
+1850,800,23/12/2023,394.55,Allergy Medicine,Shirvan
+1505,801,01/09/2024,60.41,Bandage,Shaki
+1366,802,24/09/2023,181.21,Analgesic,Nakhchivan
+1143,803,08/09/2024,489.14,Antiseptic,Nakhchivan
+1884,804,19/11/2023,398.02,Syringe,Lankaran
+1068,805,26/09/2024,251.14,Antiviral,Baku
+1098,806,24/06/2024,173.19,Syringe,Nakhchivan
+1395,807,10/10/2024,436.71,Syringe,Lankaran
+1024,808,14/07/2023,274.7,Antibiotic,Ganja
+1947,809,28/11/2023,380.42,Analgesic,Lankaran
+1890,810,19/06/2023,378.28,Allergy Medicine,Shirvan
+1468,811,04/06/2024,13.88,Allergy Medicine,Shaki
+1483,812,07/04/2024,67.5,Antiviral,Ganja
+1564,813,09/02/2023,331.52,Antiseptic,Shirvan
+1150,814,20/06/2024,85,Antibiotic,Shirvan
+1143,815,18/09/2023,131.47,Vitamin,Shirvan
+1568,816,30/01/2024,473.59,Antiseptic,Baku
+1038,817,14/08/2023,282.29,Bandage,Shirvan
+1108,818,04/05/2023,376.61,Antiseptic,Baku
+1692,819,07/02/2023,281.2,Antiseptic,Shirvan
+1041,820,24/11/2023,278.49,Syringe,Sumqayit
+1185,821,08/09/2023,51.61,Antiseptic,Ganja
+1934,822,25/06/2023,175.11,Allergy Medicine,Sumqayit
+1397,823,24/08/2024,144.8,Bandage,Shirvan
+1222,824,29/03/2024,198.41,Bandage,Ganja
+1633,825,06/02/2023,400.18,Analgesic,Ganja
+1132,826,12/11/2023,189.11,Antiseptic,Nakhchivan
+1162,827,18/11/2024,228.59,Syringe,Shaki
+1214,828,15/08/2024,201.7,Antiseptic,Sumqayit
+1732,829,24/04/2023,51.24,Vitamin,Shaki
+1234,830,09/02/2023,223.33,Vitamin,Ganja
+1842,831,28/10/2023,101.83,Syringe,Baku
+1657,832,12/08/2023,97.43,Analgesic,Ganja
+1750,833,14/11/2023,51.55,Analgesic,Shaki
+1587,834,15/12/2023,181.55,Bandage,Sumqayit
+1008,835,25/04/2023,379.95,Bandage,Shirvan
+1073,836,28/11/2024,141.84,Antibiotic,Nakhchivan
+1953,837,19/11/2023,159.61,Syringe,Nakhchivan
+1491,838,21/07/2024,323.12,Antiseptic,Nakhchivan
+1912,839,09/02/2023,101.94,Antiviral,Shirvan
+1252,840,09/02/2023,448.99,Syringe,Nakhchivan
+1229,841,16/10/2023,262.49,Antibiotic,Sumqayit
+1518,842,19/09/2023,226.56,Bandage,Shirvan
+1173,843,04/08/2023,281.12,Syringe,Nakhchivan
+1652,844,27/05/2023,87.19,Syringe,Shirvan
+1167,845,02/12/2023,308.67,Bandage,Shaki
+1169,846,17/06/2023,184.73,Allergy Medicine,Sumqayit
+1392,847,02/04/2023,449.11,Antibiotic,Lankaran
+1945,848,19/12/2023,88.58,Bandage,Baku
+1794,849,24/07/2024,255.99,Analgesic,Nakhchivan
+1633,850,24/07/2024,301.07,Antiseptic,Baku
+1193,851,11/11/2024,21.52,Bandage,Shirvan
+1516,852,29/12/2023,185.03,Antibiotic,Baku
+1028,853,10/07/2024,367.65,Vitamin,Sumqayit
+1164,854,11/12/2023,411.09,Analgesic,Sumqayit
+1421,855,23/11/2024,160.02,Vitamin,Ganja
+1338,856,19/06/2023,400.3,Antiviral,Nakhchivan
+1647,857,22/12/2023,484.04,Bandage,Ganja
+1495,858,10/07/2023,429.15,Analgesic,Baku
+1364,859,28/10/2024,63.23,Antiseptic,Lankaran
+1832,860,26/02/2024,371.17,Bandage,Ganja
+1341,861,30/11/2024,163.24,Antiseptic,Ganja
+1499,862,07/01/2023,494.27,Allergy Medicine,Sumqayit
+1656,863,13/05/2023,245.25,Syringe,Lankaran
+1510,864,10/07/2024,65.6,Vitamin,Shirvan
+1326,865,31/01/2023,363.97,Analgesic,Baku
+1216,866,18/06/2024,164.89,Antiseptic,Ganja
+1300,867,01/03/2024,498.55,Antibiotic,Lankaran
+1131,868,29/01/2024,489.99,Antiseptic,Nakhchivan
+1803,869,02/11/2024,329.79,Antibiotic,Lankaran
+1069,870,29/12/2023,69.26,Bandage,Baku
+1251,871,12/03/2024,345,Analgesic,Lankaran
+1414,872,31/10/2024,51.05,Antiseptic,Lankaran
+1786,873,04/07/2024,19.54,Antiviral,Lankaran
+1444,874,23/03/2023,412.36,Antiseptic,Nakhchivan
+1875,875,22/12/2023,108.83,Allergy Medicine,Ganja
+1181,876,15/09/2023,192.62,Antiviral,Baku
+1166,877,11/08/2024,486.86,Analgesic,Nakhchivan
+1090,878,07/06/2024,171.74,Allergy Medicine,Lankaran
+1713,879,22/10/2023,151.76,Antiseptic,Lankaran
+1857,880,12/08/2023,459.51,Antibiotic,Ganja
+1530,881,08/06/2024,59.82,Antiseptic,Baku
+1038,882,15/02/2023,380.99,Vitamin,Sumqayit
+1125,883,28/10/2024,494.09,Bandage,Nakhchivan
+1450,884,23/04/2023,451.14,Syringe,Ganja
+1172,885,21/08/2023,327.58,Antibiotic,Baku
+1652,886,17/01/2023,160.46,Vitamin,Nakhchivan
+1753,887,26/12/2023,130.89,Antiviral,Lankaran
+1219,888,11/08/2023,410.53,Bandage,Baku
+1637,889,30/11/2024,440.51,Analgesic,Baku
+1057,890,23/03/2024,265.09,Antibiotic,Shirvan
+1659,891,31/12/2023,125.95,Syringe,Baku
+1475,892,05/11/2024,60.91,Bandage,Sumqayit
+1455,893,22/11/2023,48.15,Antiviral,Baku
+1828,894,11/04/2024,360.94,Allergy Medicine,Sumqayit
+1894,895,18/02/2024,212.96,Allergy Medicine,Lankaran
+1360,896,30/03/2024,453.15,Syringe,Sumqayit
+1934,897,08/08/2024,371.14,Analgesic,Nakhchivan
+1000,898,21/08/2023,99.67,Analgesic,Lankaran
+1386,899,12/08/2023,308.82,Antiviral,Lankaran
+1972,900,16/02/2024,220.58,Antibiotic,Sumqayit
+1347,901,25/07/2024,290.74,Antiviral,Ganja
+1189,902,01/12/2023,370.34,Antiseptic,Shaki
+1504,903,10/08/2023,404.07,Analgesic,Baku
+1190,904,06/02/2023,422.65,Bandage,Shirvan
+1507,905,05/10/2023,130.72,Antiseptic,Shaki
+1368,906,15/07/2023,20.4,Allergy Medicine,Baku
+1408,907,28/04/2024,370.95,Allergy Medicine,Baku
+1823,908,30/08/2023,57.64,Vitamin,Lankaran
+1928,909,20/11/2023,160.89,Syringe,Baku
+1933,910,11/07/2023,6.89,Antiseptic,Shirvan
+1116,911,17/01/2023,342.43,Syringe,Baku
+1133,912,07/06/2024,87.73,Antiviral,Sumqayit
+1057,913,05/02/2024,329.36,Antiseptic,Shaki
+1555,914,22/01/2023,495.91,Antiviral,Sumqayit
+1684,915,18/04/2024,40.97,Vitamin,Shirvan
+1671,916,30/04/2023,43.15,Analgesic,Baku
+1172,917,29/07/2023,173.49,Allergy Medicine,Nakhchivan
+1828,918,02/11/2023,433.86,Vitamin,Shirvan
+1814,919,27/09/2023,111.69,Allergy Medicine,Lankaran
+1148,920,17/11/2024,183.39,Analgesic,Sumqayit
+1079,921,12/10/2023,38.91,Antiviral,Sumqayit
+1885,922,06/11/2024,382.76,Analgesic,Ganja
+1212,923,15/08/2023,207.11,Allergy Medicine,Baku
+1202,924,16/01/2024,380.83,Allergy Medicine,Lankaran
+1763,925,04/04/2024,452.29,Syringe,Nakhchivan
+1228,926,07/01/2023,120.22,Bandage,Sumqayit
+1675,927,29/01/2023,404.66,Vitamin,Sumqayit
+1226,928,02/02/2023,34.25,Antiseptic,Lankaran
+1658,929,07/10/2024,449.93,Allergy Medicine,Shirvan
+1531,930,20/03/2023,327.13,Vitamin,Shirvan
+1440,931,03/04/2024,437.74,Syringe,Baku
+1401,932,23/07/2024,5.09,Analgesic,Ganja
+1046,933,21/06/2024,88.7,Syringe,Sumqayit
+1232,934,26/04/2024,197.93,Antibiotic,Ganja
+1304,935,05/03/2024,192.85,Antibiotic,Shirvan
+1525,936,12/10/2023,117.23,Antiseptic,Shirvan
+1142,937,30/05/2024,193.9,Syringe,Shaki
+1414,938,09/04/2023,68.78,Antiviral,Nakhchivan
+1512,939,01/02/2024,209.32,Antiseptic,Baku
+1372,940,03/05/2024,402.17,Antiviral,Shaki
+1565,941,08/02/2023,242.14,Antiseptic,Nakhchivan
+1885,942,28/09/2023,13.91,Antibiotic,Shaki
+1258,943,06/06/2023,213.61,Antiseptic,Shaki
+1655,944,16/03/2023,18.45,Antibiotic,Baku
+1470,945,10/05/2023,483.29,Allergy Medicine,Baku
+1952,946,17/11/2024,68.09,Analgesic,Lankaran
+1970,947,25/03/2023,355.31,Antiviral,Ganja
+1011,948,22/01/2023,486.52,Syringe,Ganja
+1329,949,03/04/2024,413.89,Allergy Medicine,Lankaran
+1735,950,22/06/2024,351.16,Allergy Medicine,Lankaran
+1783,951,17/01/2024,420.53,Antiseptic,Shirvan
+1967,952,15/03/2024,490.99,Antibiotic,Nakhchivan
+1357,953,26/08/2024,312.57,Vitamin,Shaki
+1971,954,21/01/2023,281.8,Antiviral,Lankaran
+1407,955,30/10/2023,315.98,Allergy Medicine,Sumqayit
+1667,956,25/03/2023,268.67,Antiseptic,Ganja
+1372,957,20/10/2024,319.37,Bandage,Lankaran
+1007,958,28/03/2024,227.67,Analgesic,Sumqayit
+1121,959,22/01/2024,113.13,Analgesic,Sumqayit
+1347,960,21/05/2024,64.52,Vitamin,Sumqayit
+1675,961,14/09/2023,38.83,Antibiotic,Shirvan
+1089,962,23/07/2024,135.34,Antiseptic,Shirvan
+1647,963,10/06/2024,27.83,Antiviral,Sumqayit
+1697,964,11/06/2023,285.75,Antibiotic,Nakhchivan
+1315,965,12/06/2023,145.5,Analgesic,Shirvan
+1177,966,07/06/2024,413.14,Antibiotic,Shaki
+1539,967,28/09/2023,41.75,Analgesic,Sumqayit
+1731,968,06/05/2024,117.04,Antibiotic,Shaki
+1868,969,27/07/2023,366.47,Vitamin,Shaki
+1040,970,22/06/2024,301.41,Syringe,Sumqayit
+1739,971,06/08/2024,36.92,Vitamin,Ganja
+1703,972,01/03/2023,439.23,Vitamin,Nakhchivan
+1922,973,05/03/2024,439.24,Syringe,Sumqayit
+1501,974,18/10/2024,168.55,Syringe,Sumqayit
+1958,975,27/08/2024,173.5,Allergy Medicine,Shirvan
+1144,976,05/11/2023,494.57,Allergy Medicine,Sumqayit
+1200,977,03/06/2024,314.96,Antiseptic,Ganja
+1928,978,13/08/2024,268,Antiviral,Shirvan
+1723,979,27/01/2023,419.89,Antiviral,Baku
+1460,980,16/11/2024,146.22,Antiseptic,Baku
+1731,981,15/07/2024,217.45,Vitamin,Shaki
+1751,982,18/07/2023,137.55,Vitamin,Nakhchivan
+1924,983,22/01/2024,395.63,Analgesic,Shaki
+1908,984,15/12/2023,288.81,Analgesic,Ganja
+1557,985,23/11/2024,331.12,Antiviral,Lankaran
+1546,986,19/06/2024,129.89,Antiseptic,Nakhchivan
+1252,987,13/01/2024,114.01,Bandage,Baku
+1389,988,11/07/2024,246.75,Allergy Medicine,Shaki
+1593,989,10/06/2024,370.1,Bandage,Baku
+1882,990,02/06/2023,264.99,Antiseptic,Ganja
+1255,991,25/07/2023,21.16,Analgesic,Ganja
+1708,992,30/03/2024,434.93,Antiviral,Lankaran
+1814,993,30/09/2023,37.02,Antiviral,Lankaran
+1920,994,24/08/2023,478.13,Analgesic,Shirvan
+1449,995,04/06/2024,17.45,Bandage,Nakhchivan
+1009,996,08/11/2024,348.75,Antibiotic,Ganja
+1823,997,15/05/2024,45.69,Antibiotic,Shaki
+1797,998,27/04/2023,455.78,Analgesic,Baku
+1241,999,21/01/2024,234.89,Antibiotic,Sumqayit
+1250,1000,10/12/2023,73.07,Syringe,Lankaran
